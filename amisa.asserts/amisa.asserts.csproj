@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>Hamed Mirsmaeili</Authors>
+    <Company>Amin System Arman Amisa</Company>
+    <PackageProjectUrl>https://www.amisa.co</PackageProjectUrl>
+    <PackageIcon>amisa.amin.jpg</PackageIcon>
+    <PackageTags>Test, unit test, query test, script test, script, query, xunit, xunitTest,amisa, amisa.sql, amisa.net, amisa.co, amisa.ir, amisa.me, amisa.amin, amisa.amin, amisa.amin</PackageTags>
+    <Description>this library add three method that with these we can test equality, start with and end with of script and queries these methods are not case sentesive or not care about spaces and new lines and ....</Description>
+    <RepositoryUrl>https://www.amisa.co</RepositoryUrl>
+    <AssemblyVersion>1402.4.20.1</AssemblyVersion>
+    <FileVersion>1402.4.20.1</FileVersion>
+    <Version>1402.4.20.1</Version>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.3" />
+  </ItemGroup>
+</Project>
