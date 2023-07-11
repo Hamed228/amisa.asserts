@@ -1,11 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Authors>Hamed Mirsmaeili</Authors>
     <Company>Amin System Arman Amisa</Company>
-    <PackageProjectUrl>https://www.amisa.co</PackageProjectUrl>
+    <PackageProjectUrl>https://www.nuget.org/packages/amisa.asserts/</PackageProjectUrl>
     <PackageIcon>amisame.png</PackageIcon>
     <PackageTags>Test, unit test, query test, script test, script, query, xunit, xunitTest,amisa, amisa.sql, amisa.net, amisa.co, amisa.ir, amisa.me, amisa.amin, amisa.amin, amisa.amin</PackageTags>
     <Description>this library add three method that with these we can test equality, start with and end with of script and queries these methods are not case sentesive or not care about count of spaces or new lines and ....</Description>
